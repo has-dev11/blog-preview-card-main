@@ -1,4 +1,11 @@
-
+@media screen and (min-width: 360px) and (max-width: 770px) {
+    .card {
+        width: 320px;
+    }
+    .card-img {
+        width: 260px;
+    }
+}
 :root {
     --yellow: hsl(47, 88%, 63%);
     --white: #fff;
